@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Signum</string>
+    <string name="translate">Traducir...</string>
+    <string name="title_dialog">ERROR</string>
+    <string name="message">Por favor, introduzca una palabra.</string>
+    <string name="message_word">Palabra no encontrada</string>
+    <string name="button_ok">OK</string>
+    <string name="button_minijuegos">Categorías</string>
+    <string name="sugerencia1">Busca la palabra que quieres aprender</string>
+    <string name="button_opciones">PasaSignum</string>
+    <string name="noche">Modo noche</string>
+    <string name="button_animales">Animales</string>
+    <string name="button_acciones">Acciones</string>
+    <string name="button_paises">Paises</string>
+    <string name="button_colores">Colores</string>
+    <string name="button_abc">Abecedario</string>
+    <string name="button_partes">Cuerpo</string>
+    <string name="button_comida">Comida</string>
+    <string name="button_saludos">Saludos</string>
+    <string name="button_numeros">Números</string>
+    <string name="button_ropa">Ropa</string>
+    <string name="button_examen">Examen</string>
+    <string name="button_sugerencias">Diccionario</string>
+    <string name="pasasignum">Escribe...</string>
+    <string name="acertado">Palabras acertadas: </string>
+    <string name="titulo1">¡Eres un genio, has acertado todas!</string>
+    <string name="titulo2">Eres bastante bueno</string>
+    <string name="titulo3">Tienes que estudiar más</string>
+    <string name="titulo4">¿Has mirado siquiera el diccionario?</string>
+    <string name="palabras_buenas">Las palabras correctas son: </string>
+    <string name="Atrás">Atrás</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="Otra">Jugar otra</string>
+    <string name="resultados">Resultados</string>
+    <string name="Instrucciones">Instrucciones: \n \n
+        Cada botón mostrará el vídeo de una palabra a adivinar empezando o conteniendo la letra que muestra. Las palabras de las letras "Q","K","X","W","U","Z" e "Y"
+        pueden empezar o contener dicha letra, todas las demás palabras empiezan por su letra. Escribe la palabra y pulsa el enter para introducir tu respuesta.\n Si aciertas
+        el botón se pondrá verde, en caso contrario pasará a rojo, si has fallado puedes cambiar tu respuesta siempre que no pulses el botón de otra letra. Al finalizar el Pasasignum
+        podrás ver las respuestas.
+    </string>
+
+    <string name="title_activity_exam">exam</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_animales">animales</string>
+    <string name="licencia">Los vídeos en LSE utilizados son propiedad del Gobierno de Aragón
+        y han sido creados por ASZA para ARASAAC (http://www.arasaac.org),
+        que los distribuye bajo Licencia Creative Commons BY-NC-SA.
+    </string>
+</resources>

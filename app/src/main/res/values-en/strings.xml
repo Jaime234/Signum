@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Signum</string>
+    <string name="translate">Translate...</string>
+    <string name="title_dialog">ERROR</string>
+    <string name="message">Please, enter a word.</string>
+    <string name="message_word">Missing word</string>
+    <string name="button_ok">OK</string>
+    <string name="button_minijuegos">Categories</string>
+    <string name="sugerencia1">Search the word you want to learn</string>
+    <string name="button_opciones">SignumPass</string>
+    <string name="noche">Night mode</string>
+    <string name="button_animales">Animals</string>
+    <string name="button_acciones">Actions</string>
+    <string name="button_paises">Countries</string>
+    <string name="button_colores">Colors</string>
+    <string name="button_abc">Abecedary</string>
+    <string name="button_partes">Body Parts</string>
+    <string name="button_comida">Food</string>
+    <string name="button_saludos">Greetings</string>
+    <string name="button_numeros">Numbers</string>
+    <string name="button_ropa">Clothes</string>
+    <string name="button_examen">Exam</string>
+    <string name="pasasignum">Type...</string>
+    <string name="button_sugerencias">Dictionary</string>
+    <string name="title_activity_exam">exam</string>
+    <string name="acertado">Correct answers: </string>
+    <string name="titulo1">¡You are a genius, you answered all of them right!</string>
+    <string name="titulo2">You are pretty good</string>
+    <string name="titulo3">You need to study more</string>
+    <string name="titulo4">¿Did you open the dictionary?</string>
+    <string name="palabras_buenas">The correct answers are: </string>
+    <string name="Atrás">Back</string>
+    <string name="Siguiente">Next</string>
+    <string name="Otra">Play again</string>
+    <string name="resultados">Results</string>
+    <string name="Instrucciones">Instructions: \n \n
+        Each button will show a video of a word to guess starting or containing the letter that shows. The words beginning by "Q","K","X","W","U","Z" and "Y"
+        can begin or contain that letter, the rest just begin by their letter. Write the word and press enter tu introduce your answer. \n If you guess right the button will turn green,
+        in other case it will become red, if you guess wrong you can change your answer until you press another button. When you finish you can see the correct answers.
+    </string>
+
+    <string name="title_activity_animales">animals</string>
+    <string name="licencia">The videos in LSE used are property of Aragón´s Government and were made
+    by ASZA for ARASAAC (http://www.arasaac.org), distributed under Licence Creative Commons BY-NC-SA.</string>
+</resources>

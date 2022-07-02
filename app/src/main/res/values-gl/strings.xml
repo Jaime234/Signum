@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Signum</string>
+    <string name="translate">Traducir...</string>
+    <string name="title_dialog">ERRO</string>
+    <string name="message">Por favor, introduza unha palabra.</string>
+    <string name="message_word">Palabra non atopada</string>
+    <string name="button_ok">OK</string>
+    <string name="button_minijuegos">Categorías</string>
+    <string name="button_opciones">PasaSignum</string>
+    <string name="sugerencia1">Busca a palabra que queres aprender</string>
+    <string name="noche">Modo noite</string>
+    <string name="button_animales">Animais</string>
+    <string name="button_acciones">Accións</string>
+    <string name="button_paises">Países</string>
+    <string name="button_colores">Cores</string>
+    <string name="button_abc">Abecedario</string>
+    <string name="button_partes">Corpo</string>
+    <string name="button_comida">Comida</string>
+    <string name="button_saludos">Saúdos</string>
+    <string name="button_numeros">Números</string>
+    <string name="button_ropa">Roupa</string>
+    <string name="button_examen">Exame</string>
+    <string name="pasasignum">Escribe...</string>
+    <string name="button_sugerencias">Dicionario</string>
+    <string name="title_activity_exam">exame</string>
+    <string name="acertado">Palabras acertadas: </string>
+    <string name="titulo1">Es un xenio, acertaches todas!</string>
+    <string name="titulo2">Es bastante bo</string>
+    <string name="titulo3">Tes que estudar máis</string>
+    <string name="titulo4">Miraches sequera o dicionario?</string>
+    <string name="palabras_buenas">As palabras correctas son: </string>
+    <string name="Atrás">Atrás</string>
+    <string name="Siguiente">Seguinte</string>
+    <string name="Otra">Xogar outra</string>
+    <string name="resultados">Resultados</string>
+    <string name="title_activity_animales">animais</string>
+    <string name="licencia">Os vídeos na LDS empregados son propiedade do Goberno de Aragón,
+        e foron creados por ASZA para ARASAAC (http://www.arasaac.org)
+        que os distribúe baixo Licenza Creative Commons BY-NC-SA.</string>
+    <string name="Instrucciones">Instruccións: \n \n
+        Cada botón mostrará o vídeo dunha palabra para adiviñar que comeza ou que contén a letra que mostra.
+        As palabras das letras "Q","K","X","W","U","Z" e "Y", poden comezar ou conter esa letra, todas as demáis palabras comezan pola súa letra.
+        Escribe a palabra e preme Intro para introducir a túa resposta. \n
+        Se premes o botón volverase verde, se non, volverase vermello, se fallaches podes cambiar a túa resposta sempre que non premas o botón doutra letra.
+        Ao final do Pasasignum poderás ver as respostas.
+    </string>
+</resources>
